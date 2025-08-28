@@ -8,4 +8,11 @@ Power BI practice dashboard on BMW sales (2010–2024) using sample dataset
 - Tool: Microsoft Power BI  
 - Analysis: BMW sales trends from 2010 to 2024  
 
+---
+
+## Dashboard Preview  
+
+![BMW Sales Dashboard](bmw_sales.jpg)  
+![BMW Sales Dashboard 2](bmw_sales2.jpg)  
+
 🚀 Created as part of my learning journey at INNAB Business School.
